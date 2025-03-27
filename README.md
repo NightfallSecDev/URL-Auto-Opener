@@ -30,7 +30,7 @@ This script reads a list of URLs from a text file and opens them one by one in t
 ## 📥 Installation
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/URL-Auto-Opener.git
+git clone https://github.com/NightfallSecDev/URL-Auto-Opener.git
 ```
 
 2. **Navigate to the folder:**
